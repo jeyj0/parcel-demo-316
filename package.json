@@ -1,0 +1,19 @@
+{
+  "name": "parcel-demo",
+  "version": "1.0.0",
+  "description": "This is a demo project for issue#316 in the parcel-bundler project. (https://github.com/parcel-bundler/parcel/issues/316)",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Jannis Jorre <jeyj0.plus@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7",
+    "autoprefixer": "^7.2.3",
+    "babel-preset-env": "^1.6.1",
+    "node-sass": "^4.7.2",
+    "postcss-modules": "^1.1.0",
+    "uglify-es": "^3.2.2"
+  }
+}
